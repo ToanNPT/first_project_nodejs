@@ -1,0 +1,30 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToanNPT/first_project_nodejs.git"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "with",
+    "nodejs"
+  ],
+  "author": "toannpt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToanNPT/first_project_nodejs/issues"
+  },
+  "homepage": "https://github.com/ToanNPT/first_project_nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
